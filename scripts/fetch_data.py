@@ -11,6 +11,8 @@ def fetch_data(url):
     Returns:
         dict or None: The data fetched from the URL in JSON format if the request was successful,
                       otherwise None.
+    
+                      Demo
     """
     response = requests.get(url)
     if response.status_code == 200:

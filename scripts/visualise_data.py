@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.patches as patches
 
 
+
 def plot_current_weather_table(current_data, ax):
     """
     Plot a table displaying the current weather data.
