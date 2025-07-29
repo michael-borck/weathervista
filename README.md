@@ -18,7 +18,7 @@ WeatherVista is a comprehensive weather dashboard application built using Python
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/teaching-repositories/weathervista.git
+    git clone https://github.com/michael-borck/weathervista.git
     cd weathervista
     ```
 
