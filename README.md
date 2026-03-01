@@ -1,5 +1,9 @@
 # WeatherVista
 
+<!-- BADGES:START -->
+[![curtin](https://img.shields.io/badge/-curtin-f57c00?style=flat-square)](https://github.com/topics/curtin) [![api](https://img.shields.io/badge/-api-blue?style=flat-square)](https://github.com/topics/api) [![dashboard](https://img.shields.io/badge/-dashboard-blue?style=flat-square)](https://github.com/topics/dashboard) [![data-visualization](https://img.shields.io/badge/-data--visualization-blue?style=flat-square)](https://github.com/topics/data-visualization) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![gui](https://img.shields.io/badge/-gui-blue?style=flat-square)](https://github.com/topics/gui) [![jupyter-notebook](https://img.shields.io/badge/-jupyter--notebook-blue?style=flat-square)](https://github.com/topics/jupyter-notebook) [![openweathermap](https://img.shields.io/badge/-openweathermap-blue?style=flat-square)](https://github.com/topics/openweathermap) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![tkinter](https://img.shields.io/badge/-tkinter-blue?style=flat-square)](https://github.com/topics/tkinter)
+<!-- BADGES:END -->
+
 WeatherVista is a comprehensive weather dashboard application built using Python. It fetches weather data from the OpenWeatherMap API and displays it in a user-friendly graphical interface. The project aims to provide an educational tool for learning about APIs, data processing, and graphical user interfaces in Python.
 
 ## Table of Contents
